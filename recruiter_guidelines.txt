@@ -1,0 +1,8 @@
+Guidelines for Recruiters in the URUG Slack community:
+
+1) Identify yourself as a recruiter and identify the agency/company you represent.
+2) Please keep job posts in the appropriate channel. 
+3) All job posts must include all of the following:
+    - Location of position(or remote if applicable)
+    - Name of company
+    - Type of position (Full Time/Part Time/Internship, W2/1099/Contract to hire etc...) 
